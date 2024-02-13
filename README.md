@@ -1,4 +1,4 @@
-[![MasterHead](https://wp.globaluniversitysystems.com/gisma/wp-content/uploads/sites/5/2023/09/MEng-CS-GettyImages-1488457074.jpg?w=1920&h=1080&crop=1)
+![MasterHead](https://wp.globaluniversitysystems.com/gisma/wp-content/uploads/sites/5/2023/09/MEng-CS-GettyImages-1488457074.jpg?w=1920&h=1080&crop=1)
 <h1 align="center">Hi 👋, I'm Anjali Vats</h1>
 <h3 align="center">A passionate UI/UX Designer,Data Analyst/Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1280/0*WVfimFBOp5OrEMze.gif">
